@@ -8,3 +8,5 @@
 [Conditional Expectation](https://www.youtube.com/watch?v=_MSdrWxi2mw)
 
 [Bayes Theorem Intuition](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+
+[Probability Conditional Proability, Marginal and Joint Probability](https://www.youtube.com/watch?v=sMNbLXsvRig)
